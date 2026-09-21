@@ -2,6 +2,8 @@
 
 ## DO NOT FORK PLEASE
 
+## 版权信息
+
 Copyright (c) 2026 [沈若涵]
 
 This work is licensed under the Creative Commons 
@@ -19,3 +21,7 @@ Under the following terms:
 
 To view a copy of this license, visit:
 https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+## 版本信息
+v0.1 基本完善，开放测试
+v0.11 修复跨页排版Bug，正文增加自动缩进功能，特别鸣谢管擎天
