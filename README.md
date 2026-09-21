@@ -23,5 +23,7 @@ To view a copy of this license, visit:
 https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ## 版本信息
+
 v0.1 基本完善，开放测试
+
 v0.11 修复跨页排版Bug，正文增加自动缩进功能，特别鸣谢管擎天
